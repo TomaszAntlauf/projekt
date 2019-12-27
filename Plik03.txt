@@ -2,4 +2,3 @@ Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
 Zmiana 8.2
 Zmiana 9.2
-zmiana 12
