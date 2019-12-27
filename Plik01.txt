@@ -1,5 +1,11 @@
-Zmiana01
+Zmiana01 - Zmiana06
 zmiana02.2
 zmiana03
 zmiana04
 zmiana05
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+naprawa błędów - hotFix-001
+oraz
+Uproszczenie interfejsu graficznego
+easierApp
