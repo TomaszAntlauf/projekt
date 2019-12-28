@@ -3,3 +3,4 @@ Uproszczenie interfejsu graficznego
 Zmiana 8.2
 Zmiana 9.2
 Zmiana 10
+Zmiana 11
