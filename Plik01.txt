@@ -10,3 +10,4 @@ oraz
 Uproszczenie interfejsu graficznego
 easierApp
 Zmiana14
+Zmiana14b
