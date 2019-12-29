@@ -9,3 +9,4 @@ naprawa błędów - hotFix-001
 oraz
 Uproszczenie interfejsu graficznego
 easierApp
+Zmiana14
